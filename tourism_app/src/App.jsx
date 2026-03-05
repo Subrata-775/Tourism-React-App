@@ -10,9 +10,17 @@ function App() {
     const newTour = tours.filter((tour) => tour.id !== id);
     setTour(newTour);
   }
+  if (tours.length === 0) {
+    return (
+      <div className="refresh">
+        <h2 className="heading-ref">No Tours Left</h2>
+        <button className="btn-red" onClick={() => setTour(data)}>Refresh</button>
+      </div>
+    )
+  }
 
   return (
-    <div>
+    <div className="App">
       <Tours tours={tours} removeTour={removeTour} />
     </div>
   );

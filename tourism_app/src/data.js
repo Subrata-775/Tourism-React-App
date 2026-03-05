@@ -1,7 +1,13 @@
 const data = [
-    { id: 1, name: "Agra", info: "Agra is a city in northern India, known for the iconic Taj Mahal, a UNESCO World Heritage Site and one of the Seven Wonders of the World.", image: "https://cdn.thecodehelp.in/Agra.jpeg", price: "35,758", },
+    { id: 1, name: "Agra", info: "Agra is a city in northern India, known for the iconic Taj Mahal, a and one of the Seven Wonders of the World.", image: "https://cdn.thecodehelp.in/Agra.jpeg", price: "35,758", },
     { id: 2, name: "Jaipur", info: "Jaipur is the capital city of Rajasthan, famous for its royal palaces, forts, vibrant markets, and rich cultural heritage.", image: "https://cdn.thecodehelp.in/Jaipur.jpeg", price: "82,560", },
     { id: 3, name: "Goa", info: "Goa is a small state on the western coast of India known for its beautiful beaches, nightlife, seafood, and Portuguese heritage.", image: "https://cdn.thecodehelp.in/Goa.jpeg", price: "29,695", },
     { id: 4, name: "Varanasi", info: "Varanasi is one of the world's oldest living cities, located on the banks of the Ganges River and famous for its spiritual significance.", image: "https://cdn.thecodehelp.in/Varanasi.jpeg", price: "31,095", },
     { id: 5, name: "Darjeeling", info: "Darjeeling is a hill station in West Bengal known for its tea gardens, scenic beauty, and views of the Kanchenjunga mountain range.", image: "https://cdn.thecodehelp.in/Darjeeling.jpeg", price: "78,595", },
+    { id: 6, name: "Goa", info: "Goa is a small state on the western coast of India known for its beautiful beaches, nightlife, seafood, and Portuguese heritage.", image: "https://cdn.thecodehelp.in/Goa.jpeg", price: "29,695", },
+    { id: 7, name: "Varanasi", info: "Varanasi is one of the world's oldest living cities, located on the banks of the Ganges River and famous for its spiritual significance.", image: "https://cdn.thecodehelp.in/Varanasi.jpeg", price: "31,095", },
+    { id: 8, name: "Darjeeling", info: "Darjeeling is a hill station in West Bengal known for its tea gardens, scenic beauty, and views of the Kanchenjunga mountain range.", image: "https://cdn.thecodehelp.in/Darjeeling.jpeg", price: "78,595", },
+    { id: 9, name: "Goa", info: "Goa is a small state on the western coast of India known for its beautiful beaches, nightlife, seafood, and Portuguese heritage.", image: "https://cdn.thecodehelp.in/Goa.jpeg", price: "29,695", },
+    { id: 10, name: "Varanasi", info: "Varanasi is one of the world's oldest living cities, located on the banks of the Ganges River and famous for its spiritual significance.", image: "https://cdn.thecodehelp.in/Varanasi.jpeg", price: "31,095", },
+    { id: 11, name: "Darjeeling", info: "Darjeeling is a hill station in West Bengal known for its tea gardens, scenic beauty, and views of the Kanchenjunga mountain range.", image: "https://cdn.thecodehelp.in/Darjeeling.jpeg", price: "78,595", },
 ]; export default data;
